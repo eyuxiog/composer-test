@@ -1,0 +1,13 @@
+{
+    "name": "lock/composer-test",
+    "description": "composer one test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "eyuxiog",
+            "email": "1170365100@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
